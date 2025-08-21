@@ -1,0 +1,5 @@
+# Arquivos compilados
+*.class
+
+# Arquivo de dados local
+tasks.txt
