@@ -19,7 +19,6 @@ todo-cli/
 
 ## ▶️ Como executar
 No terminal:
-´´´´bash
 
 javac Main.java TaskList.java
 java Main
@@ -45,3 +44,4 @@ Manipulação de listas com ArrayList.
 Gravação e leitura de arquivos com Files.readAllLines e Files.write.
 
 Organização do código em múltiplas classes (Main e TaskList).
+
